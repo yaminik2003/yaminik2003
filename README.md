@@ -8,7 +8,7 @@
 📍 Bengaluru, India <br>
 📧 yaminikanak.raj@gmail.com <br>
 📞 +91 7259218694 <br>
-🔗 <a href="LinkedIn: https://www.linkedin.com/in/yamini-k-0a6b02262">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/yamini-k-0a6b02262">LinkedIn</a>
 </p>
 
 ---

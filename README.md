@@ -117,6 +117,43 @@ Here are some of the projects I’m working on:
 
 ---
 
+## 💼 Work Experience
+
+### **Unisys**
+
+**Automation Developer (Full-Time)**  
+📅 November 2025 – Present  
+📍 Bengaluru, Karnataka  
+
+**Technical Intern (Data AI & Hyperautomation Team)**  
+📅 October 2024 – November 2025  
+
+- Designed and implemented end-to-end automation use cases on the **ServiceNow** platform across ITSM and CMDB modules.
+
+- Delivered automation solutions including:
+  - Asset Management Remediation
+  - Request Management Staging & Bulk Load Automation
+  - Most Recent Discovery State Automation
+  - Admin Task Automation
+  - Clone Ticket & Database Refresh Automation
+  - Plugin Update Automation
+  - Password Reset Automation
+  - CMDB Health Dashboard Implementation & Remediation Workflows
+
+- Built complex workflows using **Flow Designer, Subflows, IntegrationHub, Business Rules, Script Includes, Scheduled Jobs, Transform Maps, Import Sets, ACLs, Now Assist, MID Server, and REST integrations, Agentic AI Workflows.**
+
+- Developed and customized **CMDB Health Dashboards** and built advanced custom dashboards for governance and operational visibility.
+
+- Analyzed business use cases with stakeholders, translated requirements into scalable automation architectures, and documented detailed solution designs.
+
+- Conducted stakeholder demos, UAT walkthroughs, and knowledge transfer sessions.
+
+- Assisted in governance tracking and automation progress monitoring using **Shibumi**.
+
+- Built cross-platform automation using **Microsoft Power Automate** by integrating **Microsoft Bookings** for an end-to-end appointment management automation use case.
+
+
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn

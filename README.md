@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yamini K</h1>
+
 ![](https://github.com/yaminik2003/yaminik2003/blob/main/blockchain.jpg?raw=true)
 
 <h3 align="center">AI & Machine Learning Engineer | Developer | Tech Enthusiast</h3>

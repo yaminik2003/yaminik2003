@@ -92,27 +92,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yaminik2003&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Projects
-
-Here are some of the projects I’m working on:
-
-- 🤖 AI & Machine Learning Projects  
-- 📊 Data Science & Visualization  
-- 🌐 Web Development Projects  
-- 🧠 Deep Learning Experiments  
-
-*(Check my repositories to explore more!)*
-
----
-
 ## 💼 Work Experience
 
 ### **Unisys**
@@ -148,13 +127,20 @@ Here are some of the projects I’m working on:
 
 - Built cross-platform automation using **Microsoft Power Automate** by integrating **Microsoft Bookings** for an end-to-end appointment management automation use case.
 
-
+---
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn
 - 📧 Email: yaminikanak.raj@gmail.com
 
+
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yaminik2003&show_icons=true&theme=tokyonight" />
+</p>
 
 ⭐ **If you like my work, consider giving a star to my repositories!**

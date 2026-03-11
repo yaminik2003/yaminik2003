@@ -131,7 +131,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
+- 💼 Linkedin: 
 - 📧 Email: yaminikanak.raj@gmail.com
 
 

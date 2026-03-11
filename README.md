@@ -143,4 +143,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yaminik2003&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminik2003&layout=compact&theme=tokyonight" />
+</p>
+
 ⭐ **If you like my work, consider giving a star to my repositories!**
